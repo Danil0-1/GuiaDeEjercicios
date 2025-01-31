@@ -26,3 +26,15 @@ s un deporte en el que se trabajan el cuerpo y la mente, y cuyos objetivos princ
 8. Utiliza una respiración profunda para facilitar los movimientos.
 9. Realiza los ejercicios con precisión para evitar lesiones.
 10. Aumenta la intensidad progresivamente, no apresures el proceso.
+
+## Consejos
+- Mantén siempre una postura correcta.
+- Controla tu respiración durante los ejercicios.
+- No apresures los movimientos, realiza cada uno con precisión.
+- Asegúrate de activar el core en todo momento.
+- Mantén los hombros relajados y alejados de las orejas.
+- Realiza los ejercicios lentamente para maximizar los beneficios.
+- Escucha a tu cuerpo y adapta los ejercicios si es necesario.
+- Realiza estiramientos suaves al finalizar para relajar los músculos.
+- Enfócate en la calidad de los movimientos, no en la cantidad.
+- Usa equipos como el reformer o la pelota para mayor desafío.
