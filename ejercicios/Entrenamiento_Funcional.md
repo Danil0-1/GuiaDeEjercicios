@@ -14,3 +14,15 @@ es un medio de entrenamiento basado en la realización de movimientos libres o c
 - Aumenta la eficiencia en las actividades diarias.  
 - Favorece la quema de calorías y el control del peso.  
 - Mejora la salud cardiovascular y la circulación sanguínea.  
+
+## Instrucciones
+1. Comienza con un calentamiento  
+2. Focaliza en movimientos compuestos  
+3. Usa herramientas variadas  
+4. Mantén una postura correcta  
+5. Realiza circuitos  
+6. Escoge ejercicios funcionales  
+7. Aumenta gradualmente la dificultad  
+8. Escucha a tu cuerpo  
+9. Haz descansos adecuados  
+10. Termina con estiramientos
