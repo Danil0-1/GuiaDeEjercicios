@@ -26,3 +26,15 @@ Es la capacidad que nos permite oponernos a una resistencia o ejercer una presi�
 8. Realiza movimientos controlados, evitando movimientos bruscos o rápidos.  
 9. No olvides estirar después del entrenamiento para promover la recuperación muscular.  
 10. Descansa lo suficiente entre entrenamientos para permitir la recuperación y el crecimiento muscular. 
+
+## Consejos
+- Enfócate en la técnica antes de aumentar el peso.  
+- Realiza ejercicios compuestos que involucren varios grupos musculares.  
+- No descuides el calentamiento, prepara bien tus músculos antes de levantar peso.  
+- Aumenta el peso de manera progresiva para desafiar constantemente tus músculos.  
+- Descansa lo suficiente entre series para recuperar la energía.  
+- Prioriza la forma adecuada en lugar de intentar levantar demasiado peso.  
+- Haz entrenamientos de fuerza al menos dos o tres veces por semana para obtener buenos resultados.  
+- Mantén una nutrición adecuada, incluyendo suficientes proteínas para la recuperación muscular.  
+- Escucha a tu cuerpo y toma descansos cuando sea necesario.  
+- Ten paciencia, los resultados en fuerza requieren tiempo y consistencia.
