@@ -11,3 +11,15 @@ El ciclismo es un deporte simétrico que se practica con un elemento mecánico (
 - Aumenta la resistencia  
 - Beneficios mentales  
 - Accesibilidad y versatilidad
+
+## Instrucciones
+- Ajusta la bicicleta a tu medida (altura del asiento, manillar).
+- Usa el equipo adecuado (casco, ropa cómoda y zapatos adecuados).
+- Mantén una postura correcta mientras pedaleas: espalda recta, codos ligeramente doblados, y manos en el manillar.
+- Aprenda a usar los cambios para adaptar la resistencia según el terreno.
+- Pedalea con cadencia constante para evitar el esfuerzo excesivo.
+- Usa los frenos de manera suave para evitar bloqueos o caídas.
+- Mantén una distancia segura con otros ciclistas o vehículos.
+- Señaliza siempre tus movimientos (giro, detención) con las manos.
+- Respeta las normas de tránsito y las señales viales.
+- Realiza un buen calentamiento antes de cada recorrido y estiramiento al finalizar.
