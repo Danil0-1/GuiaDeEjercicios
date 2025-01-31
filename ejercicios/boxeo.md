@@ -11,3 +11,12 @@ Deporte que consiste en la lucha a puñetazos de dos contendientes, de conformid
 - Aumenta la confianza en uno mismo.
 - Defensa personal.
 - Mejora la salud mental.
+
+## Instrucciones
+1. Postura básica  
+2. Jab  
+3. Cross  
+4. Hook  
+5. Uppercut  
+6. Desplazamientos (pasos laterales, adelante, atrás)  
+7. Sistemas de defensa (bloqueo, esquiva, parry)
