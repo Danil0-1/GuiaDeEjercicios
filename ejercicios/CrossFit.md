@@ -24,3 +24,15 @@
 8. Enfócate en la recuperación  
 9. Trabaja en la movilidad  
 10. Sigue las instrucciones de los entrenadores
+
+## Consejos
+- Escoge un entrenamiento adecuado a tu nivel de condición física.  
+- Mantén una nutrición balanceada para apoyar tu rendimiento.  
+- No descuides el descanso, es vital para la recuperación.  
+- Practica movimientos básicos antes de intentar los avanzados.  
+- Prioriza la técnica sobre la velocidad o el peso.  
+- Usa equipo de calidad y asegúrate de que esté bien ajustado.  
+- Mantén la motivación alta y establece metas realistas.  
+- Enfócate en la progresión, no en la perfección inmediata.  
+- Mantén una buena hidratación durante y después del entrenamiento.  
+- Disfruta del proceso y celebra tus logros, por pequeños que sean.
