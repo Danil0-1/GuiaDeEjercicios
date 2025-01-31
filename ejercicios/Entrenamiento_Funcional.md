@@ -26,3 +26,15 @@ es un medio de entrenamiento basado en la realización de movimientos libres o c
 8. Escucha a tu cuerpo  
 9. Haz descansos adecuados  
 10. Termina con estiramientos
+
+## Consejos
+- Escoge ejercicios adecuados a tu nivel.  
+- Enfócate en la técnica antes de aumentar la intensidad.  
+- Mantén una buena hidratación durante los entrenamientos.  
+- No olvides descansar entre sesiones intensas.  
+- Haz un calentamiento previo para evitar lesiones.  
+- Varía tus entrenamientos para trabajar diferentes grupos musculares.  
+- Usa el equipo adecuado y revisa su estado.  
+- Establece metas realistas y ve progresando poco a poco.  
+- Escucha a tu cuerpo, no sobrecargues tus límites.  
+- Disfruta del proceso y celebra cada pequeño logro.
