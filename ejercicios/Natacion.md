@@ -27,3 +27,15 @@ es un deporte tanto individual como colectivo en el que los nadadores impulsan s
 8. Practica la coordinación de brazos y piernas.
 9. Controla tu ritmo y no te excedas.
 10. Mantén el enfoque en la técnica para mejorar la eficiencia.
+
+## Consejos
+1. Mantén una postura relajada y alargada.
+2. Asegúrate de que tus movimientos sean suaves y controlados.
+3. Usa tus brazos de forma extendida, no los muevas demasiado rápido.
+4. Controla la respiración y respira profundamente.
+5. Haz que la patada sea constante, pero sin forzarla.
+6. Mantén la cabeza alineada con el cuerpo.
+7. Evita tensar los músculos, especialmente los de la parte superior del cuerpo.
+8. Practica la rotación de tu torso para un mejor alcance en cada brazada.
+9. Realiza las transiciones con suavidad y sin movimientos bruscos.
+10. Mantén una buena cadencia sin perder el ritmo.
