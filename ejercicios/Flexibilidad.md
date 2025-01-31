@@ -26,3 +26,15 @@ En el ámbito del deporte y la educación física, se entiende por flexibilidad 
 8. Escucha a tu cuerpo y detente si sientes dolor.  
 9. Realiza estiramientos de forma regular, al menos 3-4 veces por semana.  
 10. Mantén una hidratación adecuada para facilitar la elasticidad muscular.  
+
+## Consejos
+- Realiza estiramientos de forma gradual, sin forzar el cuerpo.  
+- Mantén cada estiramiento durante al menos 20-30 segundos.  
+- Respira de manera profunda y relajada mientras estiras.  
+- Realiza estiramientos dinámicos al inicio del entrenamiento para calentar.  
+- Realiza estiramientos estáticos al finalizar para aumentar la flexibilidad.  
+- No rebotes ni realices movimientos bruscos durante los estiramientos.  
+- Estira todos los grupos musculares de manera equilibrada.  
+- Escucha a tu cuerpo y detente si sientes dolor.  
+- Realiza estiramientos de forma regular, al menos 3-4 veces por semana.  
+- Mantén una hidratación adecuada para facilitar la elasticidad muscular.  
