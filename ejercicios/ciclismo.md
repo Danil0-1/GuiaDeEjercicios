@@ -23,3 +23,16 @@ El ciclismo es un deporte simétrico que se practica con un elemento mecánico (
 - Señaliza siempre tus movimientos (giro, detención) con las manos.
 - Respeta las normas de tránsito y las señales viales.
 - Realiza un buen calentamiento antes de cada recorrido y estiramiento al finalizar.
+
+## Consejos
+
+- Asegúrate de que tu bicicleta esté bien ajustada y en buen estado.
+- Mantén una postura adecuada para evitar lesiones y mejorar tu rendimiento.
+- Realiza entrenamientos de intervalos para mejorar tu resistencia y velocidad.
+- Hidratación constante: bebe agua durante el recorrido, especialmente en días calurosos.
+- Usa la ropa adecuada, como ropa de ciclista que te permita moverte con comodidad.
+- Practica el cambio de marchas para adaptarte mejor a los diferentes terrenos.
+- No sobrecargues el cuerpo: escucha a tu cuerpo y haz descansos cuando sea necesario.
+- Revisa los frenos antes de cada salida para asegurar que estén en buen estado.
+- Disminuye la velocidad en bajadas pronunciadas y mantén el control.
+- Mantén siempre la concentración y ten precaución con el tráfico o cualquier obstáculo en el camino.
