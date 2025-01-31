@@ -14,3 +14,15 @@ Sistema antiguo de prácticas que se usa para equilibrar la mente y el cuerpo me
 - Mejora la capacidad respiratoria.
 - Ayuda en la prevención y alivio de dolores musculares.
 - Estimula el sistema inmunológico.
+
+## Instrucciones
+1. Mantén una postura cómoda y alineada.
+2. Respira de manera profunda y consciente durante la práctica.
+3. Realiza cada movimiento con suavidad y control.
+4. Escucha a tu cuerpo y adapta las posturas según tu nivel.
+5. No fuerces ninguna postura, mantén el respeto por los límites de tu cuerpo.
+6. Mantén la concentración en la respiración y en el momento presente.
+7. Practica de manera constante, pero sin presionarte.
+8. Realiza una secuencia fluida y equilibrada de posturas.
+9. Termina siempre con una postura de relajación, como Savasana.
+10. Evita distracciones para maximizar los beneficios de la práctica.
