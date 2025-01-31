@@ -15,3 +15,15 @@ es un deporte tanto individual como colectivo en el que los nadadores impulsan s
 - Estimula el sistema inmunológico y mejora la salud general.  
 - Es accesible para todas las edades y niveles de condición física.  
 - Mejora la postura y la coordinación corporal.  
+
+## Instrucciones
+1. Mantén una postura horizontal en el agua.
+2. Respira de manera controlada.
+3. Flexiona ligeramente los codos al realizar el movimiento de brazo.
+4. Gira la cabeza para respirar, manteniendo el cuerpo alineado.
+5. Evita hacer movimientos bruscos con las piernas.
+6. Mantén una brazada continua y fluida.
+7. Realiza la patada de forma constante y sincronizada con los brazos.
+8. Practica la coordinación de brazos y piernas.
+9. Controla tu ritmo y no te excedas.
+10. Mantén el enfoque en la técnica para mejorar la eficiencia.
