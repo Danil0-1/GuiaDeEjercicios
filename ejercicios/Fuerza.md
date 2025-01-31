@@ -14,3 +14,15 @@ Es la capacidad que nos permite oponernos a una resistencia o ejercer una presi�
 - Contribuye a un sistema cardiovascular más saludable.  
 - Promueve una mayor autoestima y confianza en uno mismo.  
 - Ayuda a mantener un peso corporal saludable y a mejorar la composición corporal.
+
+## Instrucciones
+1. Comienza con un calentamiento adecuado para preparar tus músculos.  
+2. Realiza ejercicios compuestos que trabajen varios grupos musculares a la vez, como sentadillas, press de banca y deadlifts.  
+3. Usa pesos que desafíen tus músculos pero que te permitan mantener una técnica correcta.  
+4. Enfócate en la forma antes de aumentar el peso o la intensidad.  
+5. Realiza series y repeticiones ajustadas a tus objetivos (más repeticiones para resistencia, menos repeticiones con más peso para fuerza).  
+6. Aumenta progresivamente la carga para estimular el crecimiento muscular.  
+7. Mantén descansos adecuados entre series (de 1 a 2 minutos dependiendo del objetivo).  
+8. Realiza movimientos controlados, evitando movimientos bruscos o rápidos.  
+9. No olvides estirar después del entrenamiento para promover la recuperación muscular.  
+10. Descansa lo suficiente entre entrenamientos para permitir la recuperación y el crecimiento muscular. 
